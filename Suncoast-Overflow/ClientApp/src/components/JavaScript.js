@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+﻿import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import axios from 'axios'
 
@@ -58,4 +58,3 @@ export class Home extends Component {
     }
 }
 export default Home
-
