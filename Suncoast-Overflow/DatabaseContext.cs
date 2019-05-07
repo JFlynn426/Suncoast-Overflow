@@ -36,7 +36,7 @@ namespace content
                 {
                     conn = ConvertPostConnectionToConnectionString(envConn);
                 }
-                optionsBuilder.UseNpgsql(conn);
+                
             }
         }
 
